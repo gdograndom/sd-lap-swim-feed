@@ -1,0 +1,1498 @@
+{
+ "generated_at": "2026-11-07T09:00:06-08:00",
+ "last_run": {
+  "started_at": "2026-11-07T09:00:06-08:00",
+  "finished_at": "2026-11-07T09:00:41-08:00",
+  "ok": true,
+  "stats": {
+   "pages": 16,
+   "pdfs_downloaded": 0,
+   "new_documents": 0,
+   "new_banners": 0,
+   "read": 0,
+   "read_failed": 0
+  },
+  "errors": []
+ },
+ "last_successful_run": "2026-11-07T09:00:06-08:00",
+ "documents": {
+  "ok": 25
+ },
+ "needs_attention": [],
+ "activity": {
+  "days": 14,
+  "claude": {
+   "runs": 51,
+   "runs_using_claude": 8,
+   "reads": 35,
+   "seconds": 506.6,
+   "input_tokens": 364968,
+   "output_tokens": 40493
+  },
+  "claude_all_time": {
+   "runs": 51,
+   "runs_using_claude": 8,
+   "reads": 35,
+   "seconds": 506.6,
+   "input_tokens": 364968,
+   "output_tokens": 40493
+  },
+  "runs": [
+   {
+    "started_at": "2026-11-07T09:00:06-08:00",
+    "finished_at": "2026-11-07T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-07T06:00:05-08:00",
+    "finished_at": "2026-11-07T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T21:00:06-08:00",
+    "finished_at": "2026-11-06T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T18:00:06-08:00",
+    "finished_at": "2026-11-06T18:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T15:00:06-08:00",
+    "finished_at": "2026-11-06T15:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T12:00:06-08:00",
+    "finished_at": "2026-11-06T12:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T09:00:07-08:00",
+    "finished_at": "2026-11-06T09:00:47-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T06:00:07-08:00",
+    "finished_at": "2026-11-06T06:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T21:00:03-08:00",
+    "finished_at": "2026-11-05T21:00:36-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T18:00:05-08:00",
+    "finished_at": "2026-11-05T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T15:00:06-08:00",
+    "finished_at": "2026-11-05T15:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T12:00:06-08:00",
+    "finished_at": "2026-11-05T12:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T09:00:06-08:00",
+    "finished_at": "2026-11-05T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T06:00:06-08:00",
+    "finished_at": "2026-11-05T06:00:45-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T21:00:06-08:00",
+    "finished_at": "2026-11-04T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T18:00:05-08:00",
+    "finished_at": "2026-11-04T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T15:00:05-08:00",
+    "finished_at": "2026-11-04T15:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T12:00:06-08:00",
+    "finished_at": "2026-11-04T12:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T09:00:06-08:00",
+    "finished_at": "2026-11-04T09:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T06:00:05-08:00",
+    "finished_at": "2026-11-04T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-03T21:00:05-08:00",
+    "finished_at": "2026-11-03T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-03T18:00:05-08:00",
+    "finished_at": "2026-11-03T18:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-03T15:00:05-08:00",
+    "finished_at": "2026-11-03T15:00:52-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 2,
+     "read": 2,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "City Heights Swim Center",
+      "kind": "banner_replaced",
+      "label": "Closed for annual maintenance Oct 31, 2026 \u2013 Jan 30, 2027",
+      "differences": null
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "kind": "banner_replaced",
+      "label": "Closed for annual maintenance Nov 2, 2026 \u2013 Jan 31, 2027",
+      "differences": null
+     }
+    ],
+    "reads": [
+     {
+      "pool": "City Heights Swim Center",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.9,
+      "input_tokens": 2173,
+      "output_tokens": 381,
+      "problems": []
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 7.0,
+      "input_tokens": 2179,
+      "output_tokens": 419,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-11-03T12:00:06-08:00",
+    "finished_at": "2026-11-03T12:01:03-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 1,
+     "new_documents": 1,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Swanson Memorial Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "lap swim hours",
+       "holiday closures"
+      ]
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Swanson Memorial Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 19.5,
+      "input_tokens": 12400,
+      "output_tokens": 1373,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-11-03T09:00:06-08:00",
+    "finished_at": "2026-11-03T09:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-03T06:00:05-08:00",
+    "finished_at": "2026-11-03T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-02T21:00:05-08:00",
+    "finished_at": "2026-11-02T21:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-02T18:00:06-08:00",
+    "finished_at": "2026-11-02T18:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-02T15:00:06-08:00",
+    "finished_at": "2026-11-02T15:01:06-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 1,
+     "new_documents": 1,
+     "new_banners": 1,
+     "read": 2,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Carmel Valley Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "holiday closures"
+      ]
+     },
+     {
+      "pool": "Carmel Valley Pool",
+      "kind": "banner_added",
+      "label": "Slides and children's play structure closed until further notice; lap pool not affected",
+      "differences": null
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Carmel Valley Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 19.2,
+      "input_tokens": 15105,
+      "output_tokens": 1464,
+      "problems": []
+     },
+     {
+      "pool": "Carmel Valley Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.5,
+      "input_tokens": 2109,
+      "output_tokens": 422,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-11-02T12:00:03-08:00",
+    "finished_at": "2026-11-02T12:00:53-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 2,
+     "read": 2,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "City Heights Swim Center",
+      "kind": "banner_added",
+      "label": "Closed for annual maintenance Oct 31, 2026 \u2013 Jan 30, 2027",
+      "differences": null
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "kind": "banner_replaced",
+      "label": "Closed for annual maintenance Nov 2, 2026 \u2013 Jan 31, 2027",
+      "differences": null
+     }
+    ],
+    "reads": [
+     {
+      "pool": "City Heights Swim Center",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 7.1,
+      "input_tokens": 2167,
+      "output_tokens": 356,
+      "problems": []
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.8,
+      "input_tokens": 2174,
+      "output_tokens": 519,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-10-31T06:12:31-07:00",
+    "finished_at": "2026-10-31T06:44:13-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 15,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "kearny-mesa-pool: https://www.sandiego.gov/pools/kearny-mesa-pool: curl failed: curl: (28) Operation timed out after 996075 milliseconds with 0 out of 144281 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-30T21:13:09-07:00",
+    "finished_at": "2026-10-30T23:09:36-07:00",
+    "ok": false,
+    "stats": {
+     "pages": 0,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 0
+    },
+    "errors": [
+     "index page: https://www.sandiego.gov/pools: curl failed: curl: (6) Could not resolve host: www.sandiego.gov"
+    ],
+    "changes": [],
+    "reads": [
+     {
+      "pool": "Dr. Martin Luther King, Jr. Pool",
+      "what": "Program Guide",
+      "status": "ok",
+      "attempt": 3,
+      "seconds": 69.0,
+      "input_tokens": 15111,
+      "output_tokens": 1304,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-10-30T18:05:49-07:00",
+    "finished_at": "2026-10-30T20:31:34-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 0,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 1
+    },
+    "errors": [
+     "allied-gardens-pool: https://www.sandiego.gov/pools/allied-gardens-pool: curl failed: curl: (28) Operation timed out after 566523 milliseconds with 2544 out of 145991 bytes received",
+     "bud-kearns-memorial-pool: https://www.sandiego.gov/pools/bud-kearns-memorial-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "carmel-mountain-pool: https://www.sandiego.gov/pools/carmel-mountain-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "carmel-valley-pool: https://www.sandiego.gov/pools/carmel-valley-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "city-heights-swim-center: https://www.sandiego.gov/pools/city-heights-swim-center: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "clairemont-pool: https://www.sandiego.gov/pools/clairemont-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "colina-del-sol-pool: https://www.sandiego.gov/pools/colina-del-sol-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "kearny-mesa-pool: https://www.sandiego.gov/pools/kearny-mesa-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "martin-luther-king-jr-pool: https://www.sandiego.gov/pools/martin-luther-king-jr-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "memorial-pool: https://www.sandiego.gov/pools/memorial-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "mira-mesa-aquatic-complex: https://www.sandiego.gov/pools/mira-mesa-aquatic-complex: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "ned-baumer-aquatic-center: https://www.sandiego.gov/pools/ned-baumer-aquatic-center: curl failed: curl: (28) Connection timed out after 1042122 milliseconds",
+     "standley-aquatic-center: https://www.sandiego.gov/pools/standley-aquatic-center: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "swanson-memorial-pool: https://www.sandiego.gov/pools/swanson-memorial-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "tierrasanta-community-pool: https://www.sandiego.gov/pools/tierrasanta-community-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "vista-terrace-pool: https://www.sandiego.gov/pools/vista-terrace-pool: curl failed: curl: (6) Could not resolve host: www.sandiego.gov",
+     "Dr. Martin Luther King, Jr. Pool Program Guide: failed: API Error: Can't reach the API server \u2014 check your internet or DNS (ENOTFOUND)"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-30T15:00:04-07:00",
+    "finished_at": "2026-10-30T15:00:45-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 1,
+     "new_documents": 1,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 1
+    },
+    "errors": [
+     "Dr. Martin Luther King, Jr. Pool Program Guide: failed: You've hit your session limit \u00b7 resets 3:20pm (America/Los_Angeles)"
+    ],
+    "changes": [
+     {
+      "pool": "Dr. Martin Luther King, Jr. Pool",
+      "kind": "pdf_replaced",
+      "label": "Program Guide",
+      "differences": [
+       "lap swim hours",
+       "start date",
+       "holiday closures"
+      ]
+     }
+    ],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-30T12:00:05-07:00",
+    "finished_at": "2026-10-30T12:00:38-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-30T09:00:03-07:00",
+    "finished_at": "2026-10-30T09:00:39-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-30T06:00:03-07:00",
+    "finished_at": "2026-10-30T06:00:41-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-29T21:00:06-07:00",
+    "finished_at": "2026-10-29T21:00:41-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-29T18:00:06-07:00",
+    "finished_at": "2026-10-29T18:00:41-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-29T15:00:06-07:00",
+    "finished_at": "2026-10-29T15:01:02-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 1,
+     "new_documents": 1,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Carmel Valley Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "closures"
+      ]
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Carmel Valley Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 16.2,
+      "input_tokens": 15070,
+      "output_tokens": 1623,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-10-29T12:00:03-07:00",
+    "finished_at": "2026-10-29T12:00:38-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-29T09:00:02-07:00",
+    "finished_at": "2026-10-29T09:00:38-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-29T06:00:06-07:00",
+    "finished_at": "2026-10-29T06:00:42-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-28T21:00:06-07:00",
+    "finished_at": "2026-10-28T21:02:45-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 7,
+     "new_documents": 7,
+     "new_banners": 0,
+     "read": 7,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Carmel Valley Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "lap swim hours",
+       "start date",
+       "closures",
+       "holiday closures"
+      ]
+     },
+     {
+      "pool": "City Heights Swim Center",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "closures",
+       "holiday closures"
+      ]
+     },
+     {
+      "pool": "Colina del Sol Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "lap swim hours",
+       "start date",
+       "closed days",
+       "holiday closures"
+      ]
+     },
+     {
+      "pool": "Memorial Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "closures",
+       "holiday closures"
+      ]
+     },
+     {
+      "pool": "Ned Baumer Aquatic Center",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "closures",
+       "holiday closures"
+      ]
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "lap swim hours",
+       "start date",
+       "closures",
+       "holiday closures"
+      ]
+     },
+     {
+      "pool": "Vista Terrace Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "lap swim hours",
+       "closures",
+       "holiday closures"
+      ]
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Carmel Valley Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 17.4,
+      "input_tokens": 15022,
+      "output_tokens": 1490,
+      "problems": []
+     },
+     {
+      "pool": "City Heights Swim Center",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 16.0,
+      "input_tokens": 12311,
+      "output_tokens": 1424,
+      "problems": []
+     },
+     {
+      "pool": "Colina del Sol Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 14.0,
+      "input_tokens": 12413,
+      "output_tokens": 1200,
+      "problems": []
+     },
+     {
+      "pool": "Memorial Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 15.5,
+      "input_tokens": 12407,
+      "output_tokens": 1296,
+      "problems": []
+     },
+     {
+      "pool": "Ned Baumer Aquatic Center",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 16.6,
+      "input_tokens": 12061,
+      "output_tokens": 1357,
+      "problems": []
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 18.0,
+      "input_tokens": 12449,
+      "output_tokens": 1267,
+      "problems": []
+     },
+     {
+      "pool": "Vista Terrace Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 16.4,
+      "input_tokens": 12269,
+      "output_tokens": 1551,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-10-28T18:00:05-07:00",
+    "finished_at": "2026-10-28T18:00:44-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-28T15:00:05-07:00",
+    "finished_at": "2026-10-28T15:00:38-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-28T12:22:12-07:00",
+    "finished_at": "2026-10-28T12:22:48-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-28T12:17:57-07:00",
+    "finished_at": "2026-10-28T12:18:27-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-27T23:49:00-07:00",
+    "finished_at": "2026-10-27T23:49:30-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-27T23:36:12.826932-07:00",
+    "finished_at": "2026-10-27T23:36:43.388154-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-27T12:00:00-07:00",
+    "finished_at": "2026-10-27T23:36:12.706968-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 14,
+     "new_documents": 14,
+     "new_banners": 5,
+     "read": 19,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Allied Gardens Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Bud Kearns Memorial Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Carmel Valley Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "City Heights Swim Center",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Clairemont Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Colina del Sol Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Dr. Martin Luther King, Jr. Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Memorial Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Mira Mesa Aquatic Complex",
+      "kind": "pdf_added",
+      "label": "Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Ned Baumer Aquatic Center",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Standley Aquatic Center",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Swanson Memorial Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Vista Terrace Pool",
+      "kind": "pdf_added",
+      "label": "Fall Program Guide",
+      "differences": null
+     },
+     {
+      "pool": "Carmel Mountain Community Pool",
+      "kind": "banner_added",
+      "label": "Closed for annual maintenance Sep 7 \u2013 Dec 6",
+      "differences": null
+     },
+     {
+      "pool": "Clairemont Pool",
+      "kind": "banner_added",
+      "label": "Closed for major renovations, no reopening date given",
+      "differences": null
+     },
+     {
+      "pool": "Kearny Mesa Pool",
+      "kind": "banner_added",
+      "label": "Closed for annual maintenance Oct 12, 2026 \u2013 Jan 9, 2027",
+      "differences": null
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "kind": "banner_added",
+      "label": "Children's pool closed until further notice; main pool not affected",
+      "differences": null
+     },
+     {
+      "pool": "Vista Terrace Pool",
+      "kind": "banner_added",
+      "label": "Closed for annual maintenance Oct 5 \u2013 Jan 3",
+      "differences": null
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Allied Gardens Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 12.6,
+      "input_tokens": 12120,
+      "output_tokens": 1333,
+      "problems": []
+     },
+     {
+      "pool": "Bud Kearns Memorial Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 17.2,
+      "input_tokens": 14955,
+      "output_tokens": 1940,
+      "problems": []
+     },
+     {
+      "pool": "Carmel Valley Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 14.9,
+      "input_tokens": 14759,
+      "output_tokens": 1197,
+      "problems": []
+     },
+     {
+      "pool": "City Heights Swim Center",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 14.7,
+      "input_tokens": 14640,
+      "output_tokens": 1569,
+      "problems": []
+     },
+     {
+      "pool": "Clairemont Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 10.6,
+      "input_tokens": 10801,
+      "output_tokens": 1052,
+      "problems": []
+     },
+     {
+      "pool": "Colina del Sol Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 15.2,
+      "input_tokens": 14743,
+      "output_tokens": 1266,
+      "problems": []
+     },
+     {
+      "pool": "Dr. Martin Luther King, Jr. Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 14.5,
+      "input_tokens": 14819,
+      "output_tokens": 1563,
+      "problems": []
+     },
+     {
+      "pool": "Memorial Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 16.1,
+      "input_tokens": 14758,
+      "output_tokens": 1778,
+      "problems": []
+     },
+     {
+      "pool": "Mira Mesa Aquatic Complex",
+      "what": "Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 14.3,
+      "input_tokens": 14525,
+      "output_tokens": 1446,
+      "problems": []
+     },
+     {
+      "pool": "Ned Baumer Aquatic Center",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 14.1,
+      "input_tokens": 12013,
+      "output_tokens": 1340,
+      "problems": []
+     },
+     {
+      "pool": "Standley Aquatic Center",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 13.5,
+      "input_tokens": 14421,
+      "output_tokens": 1430,
+      "problems": []
+     },
+     {
+      "pool": "Swanson Memorial Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 14.7,
+      "input_tokens": 14753,
+      "output_tokens": 1617,
+      "problems": []
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 17.6,
+      "input_tokens": 14931,
+      "output_tokens": 1634,
+      "problems": []
+     },
+     {
+      "pool": "Vista Terrace Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 16.1,
+      "input_tokens": 14620,
+      "output_tokens": 1535,
+      "problems": []
+     },
+     {
+      "pool": "Carmel Mountain Community Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.1,
+      "input_tokens": 2144,
+      "output_tokens": 542,
+      "problems": []
+     },
+     {
+      "pool": "Clairemont Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 4.4,
+      "input_tokens": 2125,
+      "output_tokens": 348,
+      "problems": []
+     },
+     {
+      "pool": "Kearny Mesa Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 5.0,
+      "input_tokens": 2149,
+      "output_tokens": 431,
+      "problems": []
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.1,
+      "input_tokens": 2139,
+      "output_tokens": 445,
+      "problems": []
+     },
+     {
+      "pool": "Vista Terrace Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.8,
+      "input_tokens": 2133,
+      "output_tokens": 581,
+      "problems": []
+     }
+    ]
+   }
+  ]
+ }
+}
