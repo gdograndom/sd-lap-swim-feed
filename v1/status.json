@@ -1,0 +1,1376 @@
+{
+ "generated_at": "2026-11-13T21:00:03-08:00",
+ "last_run": {
+  "started_at": "2026-11-13T21:00:03-08:00",
+  "finished_at": "2026-11-13T21:00:51-08:00",
+  "ok": true,
+  "stats": {
+   "pages": 16,
+   "pdfs_downloaded": 0,
+   "new_documents": 0,
+   "new_banners": 0,
+   "read": 0,
+   "read_failed": 0
+  },
+  "errors": []
+ },
+ "last_successful_run": "2026-11-13T21:00:03-08:00",
+ "documents": {
+  "ok": 27
+ },
+ "needs_attention": [],
+ "activity": {
+  "days": 14,
+  "claude": {
+   "runs": 72,
+   "runs_using_claude": 7,
+   "reads": 10,
+   "seconds": 187.8,
+   "input_tokens": 83271,
+   "output_tokens": 10198
+  },
+  "claude_all_time": {
+   "runs": 91,
+   "runs_using_claude": 10,
+   "reads": 37,
+   "seconds": 552.4,
+   "input_tokens": 394821,
+   "output_tokens": 44453
+  },
+  "runs": [
+   {
+    "started_at": "2026-11-13T21:00:03-08:00",
+    "finished_at": "2026-11-13T21:00:51-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-13T18:00:05-08:00",
+    "finished_at": "2026-11-13T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-13T15:00:06-08:00",
+    "finished_at": "2026-11-13T15:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-13T12:00:06-08:00",
+    "finished_at": "2026-11-13T12:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-13T09:00:04-08:00",
+    "finished_at": "2026-11-13T09:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-13T06:00:01-08:00",
+    "finished_at": "2026-11-13T06:00:36-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-12T21:00:04-08:00",
+    "finished_at": "2026-11-12T21:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-12T18:00:06-08:00",
+    "finished_at": "2026-11-12T18:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-12T15:00:05-08:00",
+    "finished_at": "2026-11-12T15:00:38-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-12T12:00:05-08:00",
+    "finished_at": "2026-11-12T12:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-12T09:00:05-08:00",
+    "finished_at": "2026-11-12T09:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-12T06:00:06-08:00",
+    "finished_at": "2026-11-12T06:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-11T21:00:05-08:00",
+    "finished_at": "2026-11-11T21:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-11T18:00:05-08:00",
+    "finished_at": "2026-11-11T18:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-11T15:00:06-08:00",
+    "finished_at": "2026-11-11T15:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-11T12:00:05-08:00",
+    "finished_at": "2026-11-11T12:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-11T09:00:06-08:00",
+    "finished_at": "2026-11-11T09:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-11T06:00:06-08:00",
+    "finished_at": "2026-11-11T06:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-10T21:00:06-08:00",
+    "finished_at": "2026-11-10T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-10T18:00:05-08:00",
+    "finished_at": "2026-11-10T18:01:08-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 1,
+     "new_documents": 1,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Bud Kearns Memorial Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "lap swim hours",
+       "special hours"
+      ]
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Bud Kearns Memorial Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 28.3,
+      "input_tokens": 15137,
+      "output_tokens": 2497,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-11-10T15:00:04-08:00",
+    "finished_at": "2026-11-10T15:00:38-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-10T12:00:06-08:00",
+    "finished_at": "2026-11-10T12:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-10T09:00:02-08:00",
+    "finished_at": "2026-11-10T09:00:38-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-10T06:00:07-08:00",
+    "finished_at": "2026-11-10T06:00:45-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-09T21:00:04-08:00",
+    "finished_at": "2026-11-09T21:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-09T18:00:03-08:00",
+    "finished_at": "2026-11-09T18:00:36-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-09T15:00:02-08:00",
+    "finished_at": "2026-11-09T15:00:38-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-09T12:00:06-08:00",
+    "finished_at": "2026-11-09T12:01:01-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 1,
+     "new_documents": 1,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Mira Mesa Aquatic Complex",
+      "kind": "pdf_replaced",
+      "label": "Program Guide",
+      "differences": [
+       "lap swim hours"
+      ]
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Mira Mesa Aquatic Complex",
+      "what": "Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 17.5,
+      "input_tokens": 14716,
+      "output_tokens": 1463,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-11-09T09:00:05-08:00",
+    "finished_at": "2026-11-09T09:00:38-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-09T06:00:06-08:00",
+    "finished_at": "2026-11-09T06:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-08T21:00:06-08:00",
+    "finished_at": "2026-11-08T21:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-08T18:00:04-08:00",
+    "finished_at": "2026-11-08T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-08T15:00:06-08:00",
+    "finished_at": "2026-11-08T15:00:57-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-08T12:00:05-08:00",
+    "finished_at": "2026-11-08T12:01:06-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-08T09:00:05-08:00",
+    "finished_at": "2026-11-08T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-08T06:00:06-08:00",
+    "finished_at": "2026-11-08T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-07T21:00:05-08:00",
+    "finished_at": "2026-11-07T21:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-07T18:00:06-08:00",
+    "finished_at": "2026-11-07T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-07T15:00:06-08:00",
+    "finished_at": "2026-11-07T15:00:45-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-07T12:00:05-08:00",
+    "finished_at": "2026-11-07T12:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-07T09:00:06-08:00",
+    "finished_at": "2026-11-07T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-07T06:00:05-08:00",
+    "finished_at": "2026-11-07T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T21:00:06-08:00",
+    "finished_at": "2026-11-06T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T18:00:06-08:00",
+    "finished_at": "2026-11-06T18:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T15:00:06-08:00",
+    "finished_at": "2026-11-06T15:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T12:00:06-08:00",
+    "finished_at": "2026-11-06T12:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T09:00:07-08:00",
+    "finished_at": "2026-11-06T09:00:47-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-06T06:00:07-08:00",
+    "finished_at": "2026-11-06T06:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T21:00:03-08:00",
+    "finished_at": "2026-11-05T21:00:36-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T18:00:05-08:00",
+    "finished_at": "2026-11-05T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T15:00:06-08:00",
+    "finished_at": "2026-11-05T15:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T12:00:06-08:00",
+    "finished_at": "2026-11-05T12:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T09:00:06-08:00",
+    "finished_at": "2026-11-05T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-05T06:00:06-08:00",
+    "finished_at": "2026-11-05T06:00:45-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T21:00:06-08:00",
+    "finished_at": "2026-11-04T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T18:00:05-08:00",
+    "finished_at": "2026-11-04T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T15:00:05-08:00",
+    "finished_at": "2026-11-04T15:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T12:00:06-08:00",
+    "finished_at": "2026-11-04T12:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T09:00:06-08:00",
+    "finished_at": "2026-11-04T09:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-04T06:00:05-08:00",
+    "finished_at": "2026-11-04T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-03T21:00:05-08:00",
+    "finished_at": "2026-11-03T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-03T18:00:05-08:00",
+    "finished_at": "2026-11-03T18:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-03T15:00:05-08:00",
+    "finished_at": "2026-11-03T15:00:52-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 2,
+     "read": 2,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "City Heights Swim Center",
+      "kind": "banner_replaced",
+      "label": "Closed for annual maintenance Oct 31, 2026 \u2013 Jan 30, 2027",
+      "differences": null
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "kind": "banner_replaced",
+      "label": "Closed for annual maintenance Nov 2, 2026 \u2013 Jan 31, 2027",
+      "differences": null
+     }
+    ],
+    "reads": [
+     {
+      "pool": "City Heights Swim Center",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.9,
+      "input_tokens": 2173,
+      "output_tokens": 381,
+      "problems": []
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 7.0,
+      "input_tokens": 2179,
+      "output_tokens": 419,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-11-03T12:00:06-08:00",
+    "finished_at": "2026-11-03T12:01:03-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 1,
+     "new_documents": 1,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Swanson Memorial Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "lap swim hours",
+       "holiday closures"
+      ]
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Swanson Memorial Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 19.5,
+      "input_tokens": 12400,
+      "output_tokens": 1373,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-11-03T09:00:06-08:00",
+    "finished_at": "2026-11-03T09:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-03T06:00:05-08:00",
+    "finished_at": "2026-11-03T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-02T21:00:05-08:00",
+    "finished_at": "2026-11-02T21:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-02T18:00:06-08:00",
+    "finished_at": "2026-11-02T18:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-02T15:00:06-08:00",
+    "finished_at": "2026-11-02T15:01:06-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 1,
+     "new_documents": 1,
+     "new_banners": 1,
+     "read": 2,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "Carmel Valley Pool",
+      "kind": "pdf_replaced",
+      "label": "Fall Program Guide",
+      "differences": [
+       "holiday closures"
+      ]
+     },
+     {
+      "pool": "Carmel Valley Pool",
+      "kind": "banner_added",
+      "label": "Slides and children's play structure closed until further notice; lap pool not affected",
+      "differences": null
+     }
+    ],
+    "reads": [
+     {
+      "pool": "Carmel Valley Pool",
+      "what": "Fall Program Guide",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 19.2,
+      "input_tokens": 15105,
+      "output_tokens": 1464,
+      "problems": []
+     },
+     {
+      "pool": "Carmel Valley Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.5,
+      "input_tokens": 2109,
+      "output_tokens": 422,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-11-02T12:00:03-08:00",
+    "finished_at": "2026-11-02T12:00:53-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 2,
+     "read": 2,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [
+     {
+      "pool": "City Heights Swim Center",
+      "kind": "banner_added",
+      "label": "Closed for annual maintenance Oct 31, 2026 \u2013 Jan 30, 2027",
+      "differences": null
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "kind": "banner_replaced",
+      "label": "Closed for annual maintenance Nov 2, 2026 \u2013 Jan 31, 2027",
+      "differences": null
+     }
+    ],
+    "reads": [
+     {
+      "pool": "City Heights Swim Center",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 7.1,
+      "input_tokens": 2167,
+      "output_tokens": 356,
+      "problems": []
+     },
+     {
+      "pool": "Tierrasanta Community Pool",
+      "what": "closure notice",
+      "status": "ok",
+      "attempt": 1,
+      "seconds": 6.8,
+      "input_tokens": 2174,
+      "output_tokens": 519,
+      "problems": []
+     }
+    ]
+   },
+   {
+    "started_at": "2026-10-31T06:12:31-07:00",
+    "finished_at": "2026-10-31T06:44:13-07:00",
+    "ok": true,
+    "stats": {
+     "pages": 15,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "kearny-mesa-pool: https://www.sandiego.gov/pools/kearny-mesa-pool: curl failed: curl: (28) Operation timed out after 996075 milliseconds with 0 out of 144281 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-10-30T21:13:09-07:00",
+    "finished_at": "2026-10-30T23:09:36-07:00",
+    "ok": false,
+    "stats": {
+     "pages": 0,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 1,
+     "read_failed": 0
+    },
+    "errors": [
+     "index page: https://www.sandiego.gov/pools: curl failed: curl: (6) Could not resolve host: www.sandiego.gov"
+    ],
+    "changes": [],
+    "reads": [
+     {
+      "pool": "Dr. Martin Luther King, Jr. Pool",
+      "what": "Program Guide",
+      "status": "ok",
+      "attempt": 3,
+      "seconds": 69.0,
+      "input_tokens": 15111,
+      "output_tokens": 1304,
+      "problems": []
+     }
+    ]
+   }
+  ]
+ }
+}
