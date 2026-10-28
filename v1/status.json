@@ -1,0 +1,34 @@
+{
+ "generated_at": "2026-10-30T15:00:04-07:00",
+ "last_run": {
+  "started_at": "2026-10-30T15:00:04-07:00",
+  "finished_at": "2026-10-30T15:00:45-07:00",
+  "ok": true,
+  "stats": {
+   "pages": 16,
+   "pdfs_downloaded": 1,
+   "new_documents": 1,
+   "new_banners": 0,
+   "read": 1,
+   "read_failed": 1
+  },
+  "errors": [
+   "Dr. Martin Luther King, Jr. Pool Program Guide: failed: You've hit your session limit \u00b7 resets 3:20pm (America/Los_Angeles)"
+  ]
+ },
+ "last_successful_run": "2026-10-30T15:00:04-07:00",
+ "documents": {
+  "failed": 1,
+  "ok": 22
+ },
+ "needs_attention": [
+  {
+   "pool": "Dr. Martin Luther King, Jr. Pool",
+   "what": "PDF: Program Guide",
+   "status": "failed",
+   "problems": [
+    "You've hit your session limit \u00b7 resets 3:20pm (America/Los_Angeles)"
+   ]
+  }
+ ]
+}
