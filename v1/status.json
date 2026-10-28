@@ -1,0 +1,1440 @@
+{
+ "generated_at": "2026-11-28T12:02:19-08:00",
+ "last_run": {
+  "started_at": "2026-11-28T12:02:19-08:00",
+  "finished_at": "2026-11-28T12:12:11-08:00",
+  "ok": true,
+  "stats": {
+   "pages": 15,
+   "pdfs_downloaded": 0,
+   "new_documents": 0,
+   "new_banners": 0,
+   "read": 0,
+   "read_failed": 0
+  },
+  "errors": [
+   "carmel-mountain-pool: https://www.sandiego.gov/pools/carmel-mountain-pool: curl failed: curl: (28) Connection timed out after 65071 milliseconds",
+   "clairemont-pool: https://www.sandiego.gov/sites/default/files/2024-04/clairemontpoolprogram.pdf: curl failed: curl: (28) Operation timed out after 163353 milliseconds with 0 bytes received",
+   "tierrasanta-community-pool: https://www.sandiego.gov/sites/default/files/2024-04/tierrasantapoolprogram.pdf: curl failed: curl: (28) Operation timed out after 322533 milliseconds with 0 bytes received"
+  ]
+ },
+ "last_successful_run": "2026-11-28T12:02:19-08:00",
+ "documents": {
+  "ok": 27
+ },
+ "needs_attention": [],
+ "activity": {
+  "days": 14,
+  "claude": {
+   "runs": 84,
+   "runs_using_claude": 0,
+   "reads": 0,
+   "seconds": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  },
+  "claude_all_time": {
+   "runs": 178,
+   "runs_using_claude": 10,
+   "reads": 37,
+   "seconds": 552.4,
+   "input_tokens": 394821,
+   "output_tokens": 44453
+  },
+  "runs": [
+   {
+    "started_at": "2026-11-28T12:02:19-08:00",
+    "finished_at": "2026-11-28T12:12:11-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 15,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "carmel-mountain-pool: https://www.sandiego.gov/pools/carmel-mountain-pool: curl failed: curl: (28) Connection timed out after 65071 milliseconds",
+     "clairemont-pool: https://www.sandiego.gov/sites/default/files/2024-04/clairemontpoolprogram.pdf: curl failed: curl: (28) Operation timed out after 163353 milliseconds with 0 bytes received",
+     "tierrasanta-community-pool: https://www.sandiego.gov/sites/default/files/2024-04/tierrasantapoolprogram.pdf: curl failed: curl: (28) Operation timed out after 322533 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-28T09:07:31-08:00",
+    "finished_at": "2026-11-28T09:16:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 15,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "bud-kearns-memorial-pool: https://www.sandiego.gov/pools/bud-kearns-memorial-pool: curl failed: curl: (28) Operation timed out after 270220 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-28T06:16:02-08:00",
+    "finished_at": "2026-11-28T07:17:04-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 14,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "carmel-valley-pool: https://www.sandiego.gov/pools/carmel-valley-pool: curl failed: curl: (28) Operation timed out after 928693 milliseconds with 32750 out of 143711 bytes received",
+     "standley-aquatic-center: https://www.sandiego.gov/pools/standley-aquatic-center: curl failed: curl: (28) Operation timed out after 1053581 milliseconds with 131072 out of 160816 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-27T21:01:08-08:00",
+    "finished_at": "2026-11-27T21:29:56-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 14,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "carmel-mountain-pool: https://www.sandiego.gov/pools/carmel-mountain-pool: curl failed: curl: (28) Operation timed out after 1008827 milliseconds with 0 out of 142657 bytes received",
+     "city-heights-swim-center: https://www.sandiego.gov/sites/default/files/2024-04/cityheightspoolprogram.pdf: curl failed: curl: (28) Operation timed out after 199909 milliseconds with 0 bytes received",
+     "martin-luther-king-jr-pool: https://www.sandiego.gov/pools/martin-luther-king-jr-pool: curl failed: curl: (28) Operation timed out after 437830 milliseconds with 16375 out of 151970 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-27T18:08:48-08:00",
+    "finished_at": "2026-11-27T18:47:45-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 15,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "carmel-mountain-pool: https://www.sandiego.gov/pools/carmel-mountain-pool: curl failed: curl: (28) Connection timed out after 572401 milliseconds",
+     "clairemont-pool: https://www.sandiego.gov/sites/default/files/2024-04/clairemontpoolprogram.pdf: curl failed: curl: (28) Connection timed out after 909415 milliseconds"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-27T15:05:44-08:00",
+    "finished_at": "2026-11-27T15:24:45-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 14,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "colina-del-sol-pool: https://www.sandiego.gov/pools/colina-del-sol-pool: curl failed: curl: (28) Connection timed out after 245317 milliseconds",
+     "swanson-memorial-pool: https://www.sandiego.gov/pools/swanson-memorial-pool: curl failed: curl: (28) Operation timed out after 283022 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-27T12:06:32-08:00",
+    "finished_at": "2026-11-27T12:14:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 14,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "clairemont-pool: https://www.sandiego.gov/pools/clairemont-pool: curl failed: curl: (28) Operation timed out after 77143 milliseconds with 0 bytes received",
+     "memorial-pool: https://www.sandiego.gov/pools/memorial-pool: curl failed: curl: (28) Operation timed out after 109492 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-27T09:06:12-08:00",
+    "finished_at": "2026-11-27T09:21:31-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 14,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "colina-del-sol-pool: https://www.sandiego.gov/pools/colina-del-sol-pool: curl failed: curl: (28) Operation timed out after 210128 milliseconds with 0 bytes received",
+     "mira-mesa-aquatic-complex: https://www.sandiego.gov/pools/mira-mesa-aquatic-complex: curl failed: curl: (28) Operation timed out after 676632 milliseconds with 59297 out of 148130 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-27T06:06:58-08:00",
+    "finished_at": "2026-11-27T06:47:15-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 14,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "carmel-mountain-pool: https://www.sandiego.gov/pools/carmel-mountain-pool: curl failed: curl: (28) Connection timed out after 192898 milliseconds",
+     "martin-luther-king-jr-pool: https://www.sandiego.gov/pools/martin-luther-king-jr-pool: curl failed: curl: (28) Operation timed out after 107335 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-26T21:07:45-08:00",
+    "finished_at": "2026-11-26T21:49:35-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 15,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "carmel-valley-pool: https://www.sandiego.gov/sites/default/files/2026-08/carmelvalleypoolprogram.pdf: curl failed: curl: (28) Connection timed out after 428908 milliseconds",
+     "ned-baumer-aquatic-center: https://www.sandiego.gov/pools/ned-baumer-aquatic-center: curl failed: curl: (28) Operation timed out after 87686 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-26T18:03:34-08:00",
+    "finished_at": "2026-11-26T19:04:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 13,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "allied-gardens-pool: https://www.sandiego.gov/pools/allied-gardens-pool: curl failed: curl: (28) Operation timed out after 514890 milliseconds with 0 bytes received",
+     "colina-del-sol-pool: https://www.sandiego.gov/pools/colina-del-sol-pool: curl failed: curl: (28) Operation timed out after 1078679 milliseconds with 0 bytes received",
+     "memorial-pool: https://www.sandiego.gov/pools/memorial-pool: curl failed: curl: (28) Operation timed out after 1053300 milliseconds with 0 out of 144664 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-26T15:00:21-08:00",
+    "finished_at": "2026-11-26T15:21:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 14,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "carmel-valley-pool: https://www.sandiego.gov/pools/carmel-valley-pool: curl failed: curl: (28) Operation timed out after 105349 milliseconds with 0 bytes received",
+     "mira-mesa-aquatic-complex: https://www.sandiego.gov/pools/mira-mesa-aquatic-complex: curl failed: curl: (28) Operation timed out after 188186 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-26T12:09:51-08:00",
+    "finished_at": "2026-11-26T12:22:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 15,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "allied-gardens-pool: https://www.sandiego.gov/pools/allied-gardens-pool: curl failed: curl: (28) Operation timed out after 520671 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-26T09:02:26-08:00",
+    "finished_at": "2026-11-26T09:31:19-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "martin-luther-king-jr-pool: https://www.sandiego.gov/sites/default/files/2026-08/mlkpoolprogram.pdf: curl failed: curl: (28) Operation timed out after 333939 milliseconds with 0 bytes received",
+     "ned-baumer-aquatic-center: https://www.sandiego.gov/sites/default/files/2024-04/nedbaumerpoolprogram.pdf: curl failed: curl: (28) Connection timed out after 970225 milliseconds",
+     "swanson-memorial-pool: https://www.sandiego.gov/sites/default/files/2024-04/swansonpoolprogram.pdf: curl failed: curl: (28) Operation timed out after 385231 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-26T06:04:54-08:00",
+    "finished_at": "2026-11-26T06:34:00-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 14,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "city-heights-swim-center: https://www.sandiego.gov/pools/city-heights-swim-center: curl failed: curl: (28) Operation timed out after 1032113 milliseconds with 0 bytes received",
+     "mira-mesa-aquatic-complex: https://www.sandiego.gov/pools/mira-mesa-aquatic-complex: curl failed: curl: (28) Operation timed out after 324211 milliseconds with 0 bytes received"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-25T21:07:41-08:00",
+    "finished_at": "2026-11-25T21:07:42-08:00",
+    "ok": false,
+    "stats": {
+     "pages": 0,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [
+     "index page: https://www.sandiego.gov/pools: curl failed: curl: (6) Could not resolve host: www.sandiego.gov"
+    ],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-25T18:00:05-08:00",
+    "finished_at": "2026-11-25T18:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-25T15:00:06-08:00",
+    "finished_at": "2026-11-25T15:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-25T12:00:05-08:00",
+    "finished_at": "2026-11-25T12:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-25T09:00:06-08:00",
+    "finished_at": "2026-11-25T09:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-25T06:00:06-08:00",
+    "finished_at": "2026-11-25T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-24T21:00:05-08:00",
+    "finished_at": "2026-11-24T21:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-24T18:00:03-08:00",
+    "finished_at": "2026-11-24T18:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-24T15:00:04-08:00",
+    "finished_at": "2026-11-24T15:00:37-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-24T12:00:03-08:00",
+    "finished_at": "2026-11-24T12:00:37-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-24T09:00:05-08:00",
+    "finished_at": "2026-11-24T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-24T06:00:06-08:00",
+    "finished_at": "2026-11-24T06:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-23T21:00:06-08:00",
+    "finished_at": "2026-11-23T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-23T18:00:05-08:00",
+    "finished_at": "2026-11-23T18:00:38-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-23T15:00:05-08:00",
+    "finished_at": "2026-11-23T15:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-23T12:00:05-08:00",
+    "finished_at": "2026-11-23T12:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-23T09:00:05-08:00",
+    "finished_at": "2026-11-23T09:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-23T06:00:05-08:00",
+    "finished_at": "2026-11-23T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-22T21:00:05-08:00",
+    "finished_at": "2026-11-22T21:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-22T18:00:06-08:00",
+    "finished_at": "2026-11-22T18:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-22T15:00:05-08:00",
+    "finished_at": "2026-11-22T15:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-22T12:00:05-08:00",
+    "finished_at": "2026-11-22T12:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-22T09:00:06-08:00",
+    "finished_at": "2026-11-22T09:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-22T06:00:06-08:00",
+    "finished_at": "2026-11-22T06:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-21T21:00:06-08:00",
+    "finished_at": "2026-11-21T21:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-21T18:00:06-08:00",
+    "finished_at": "2026-11-21T18:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-21T15:00:06-08:00",
+    "finished_at": "2026-11-21T15:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-21T12:00:06-08:00",
+    "finished_at": "2026-11-21T12:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-21T09:00:05-08:00",
+    "finished_at": "2026-11-21T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-21T06:00:05-08:00",
+    "finished_at": "2026-11-21T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-20T21:00:05-08:00",
+    "finished_at": "2026-11-20T21:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-20T18:00:06-08:00",
+    "finished_at": "2026-11-20T18:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-20T15:00:06-08:00",
+    "finished_at": "2026-11-20T15:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-20T12:00:06-08:00",
+    "finished_at": "2026-11-20T12:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-20T09:00:03-08:00",
+    "finished_at": "2026-11-20T09:00:36-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-20T06:00:05-08:00",
+    "finished_at": "2026-11-20T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-19T21:00:05-08:00",
+    "finished_at": "2026-11-19T21:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-19T18:00:06-08:00",
+    "finished_at": "2026-11-19T18:00:46-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-19T15:00:05-08:00",
+    "finished_at": "2026-11-19T15:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-19T12:00:06-08:00",
+    "finished_at": "2026-11-19T12:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-19T09:00:03-08:00",
+    "finished_at": "2026-11-19T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-19T06:00:02-08:00",
+    "finished_at": "2026-11-19T06:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-18T21:00:06-08:00",
+    "finished_at": "2026-11-18T21:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-18T18:00:06-08:00",
+    "finished_at": "2026-11-18T18:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-18T15:00:06-08:00",
+    "finished_at": "2026-11-18T15:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-18T12:00:06-08:00",
+    "finished_at": "2026-11-18T12:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-18T09:00:07-08:00",
+    "finished_at": "2026-11-18T09:00:52-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-18T06:00:06-08:00",
+    "finished_at": "2026-11-18T06:00:45-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-17T21:00:04-08:00",
+    "finished_at": "2026-11-17T21:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-17T18:00:06-08:00",
+    "finished_at": "2026-11-17T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-17T15:00:06-08:00",
+    "finished_at": "2026-11-17T15:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-17T12:00:06-08:00",
+    "finished_at": "2026-11-17T12:00:44-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-17T09:00:05-08:00",
+    "finished_at": "2026-11-17T09:00:48-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-17T06:00:05-08:00",
+    "finished_at": "2026-11-17T06:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-16T21:00:05-08:00",
+    "finished_at": "2026-11-16T21:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-16T18:00:06-08:00",
+    "finished_at": "2026-11-16T18:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-16T15:00:07-08:00",
+    "finished_at": "2026-11-16T15:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-16T12:00:05-08:00",
+    "finished_at": "2026-11-16T12:00:38-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-16T09:00:05-08:00",
+    "finished_at": "2026-11-16T09:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-16T06:00:05-08:00",
+    "finished_at": "2026-11-16T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-15T21:00:06-08:00",
+    "finished_at": "2026-11-15T21:00:43-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-15T18:00:05-08:00",
+    "finished_at": "2026-11-15T18:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-15T15:00:05-08:00",
+    "finished_at": "2026-11-15T15:00:42-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-15T12:00:05-08:00",
+    "finished_at": "2026-11-15T12:00:40-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-15T09:00:05-08:00",
+    "finished_at": "2026-11-15T09:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-15T06:00:05-08:00",
+    "finished_at": "2026-11-15T06:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-14T21:00:04-08:00",
+    "finished_at": "2026-11-14T21:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-14T18:00:05-08:00",
+    "finished_at": "2026-11-14T18:00:41-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   },
+   {
+    "started_at": "2026-11-14T15:00:05-08:00",
+    "finished_at": "2026-11-14T15:00:39-08:00",
+    "ok": true,
+    "stats": {
+     "pages": 16,
+     "pdfs_downloaded": 0,
+     "new_documents": 0,
+     "new_banners": 0,
+     "read": 0,
+     "read_failed": 0
+    },
+    "errors": [],
+    "changes": [],
+    "reads": []
+   }
+  ]
+ }
+}
